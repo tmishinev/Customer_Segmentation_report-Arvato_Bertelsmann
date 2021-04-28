@@ -4,7 +4,7 @@
 
 - #### Unsupervised part - Customer segmentation between Global population and Customers of the company
 
-- #### Supevised part - Mailout campaign prediction 
+- #### Supervised part - Mailout campaign prediction 
 
 ## 2. Data
 
