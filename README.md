@@ -2,9 +2,7 @@
 
 ### 1. Project Overview:
 
-- Unsupervised part - Customer segmentation between Global population and Customers of the company
-
-- Supervised part - Mailout campaign prediction 
+The project is divided in two parts. First part uses unsupervised learning techniques to identified common clusters between the general population of Germany and the current customers of the company. The goal is to extract parts of the general population which is more likely to become a customer.
 
 ### 2. Data
 
@@ -31,13 +29,13 @@
 
 -  matplotlib, seaborn (visualization)
 
--  PCA, k-means clustering
+-  PCA, k-means clustering, XGBClassfier
 
 ### 5. Results:
 
 - #### Part 1 Unsupervised learning:
 
-- PCA components:
+- PCA components
 
 - Elbow Curve
 
@@ -45,9 +43,9 @@
 
 - #### Part 2 Supervised learning:
 
-- Initial models test:
+- Initial models test
 
-- Optimized model ROC Curve:
+- Optimized model ROC Curve
 
 ### 6. Licensing, Authors, Acknowledgements:
 
