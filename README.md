@@ -49,4 +49,4 @@ The project is divided in two parts. First part uses unsupervised learning techn
 
 ### 6. Licensing, Authors, Acknowledgements:
 
-Thanks to Arvato and Udacity for providing the oportunity to work on real life case.
+Thanks to Arvato and Udacity for providing the opportunity to work on real life case.
