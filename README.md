@@ -2,7 +2,7 @@
 
 ### 1. Project Overview:
 
-The project is divided in two parts. First part uses unsupervised learning techniques to identified common clusters between the general population of Germany and the current customers of the company. The goal is to extract parts of the general population which is more likely to become a customer.
+The project is divided in two parts. First part uses unsupervised learning techniques to identified common clusters between the general population of Germany and the current customers of the company. The goal is to extract parts of the general population which is more likely to become a customer. The second part uses supervised learning to train model and predict data collected from mailout campaign.
 
 ### 2. Data
 
